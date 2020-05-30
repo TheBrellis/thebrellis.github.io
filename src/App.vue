@@ -9,17 +9,17 @@
 
 <script>
 import Header from "./components/Header.vue";
-import Bio from "./compontents/Bio.vue";
-import Projects from "./components/Projects.vue";
-import Contact from "./components/Contact.vue";
+// import Bio from "./components/Bio.vue";
+// import Projects from "./components/Projects.vue";
+// import Contact from "./components/Contact.vue";
 
 export default {
   name: "App",
   components: {
-    Header,
-    Bio,
-    Projects,
-    Contact
+    Header
+    // Bio,
+    // Projects,
+    // Contact
   }
 };
 </script>
